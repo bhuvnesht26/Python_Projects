@@ -1,6 +1,6 @@
 # Python_Projects
 
-Python projects focussing on Biotechnology using:
+Python projects focussing on Biology research using:
 
 1. Machine Learning
 2. MatPlotlib
